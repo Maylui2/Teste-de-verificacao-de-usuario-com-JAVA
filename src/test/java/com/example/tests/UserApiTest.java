@@ -58,7 +58,3 @@ public class UserApiTest {
     }
 }
 
-
-//Quando reinincio o intelj o comando do teste nao fica habilitado e preciso adicionar manualmente
-// aviso INFO : Esse arquivo é gerado automaticamente pelo IntelliJ IDEA para gerenciar a execução dos testes.
-//Try Catch :Tratamento de exeções para caso ocorra um erro a execução nao seja interrompido (o site roda sem quebrar)
